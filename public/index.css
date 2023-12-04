@@ -1,0 +1,9 @@
+.custom-background {
+    /* Define background image URL */
+    background-image: url('jeep.webp'); /* Replace 'path_to_your_image.jpg' with your image path */
+    /* Set background size and other properties */
+    background-size: cover;
+    background-position: center;
+    /* Define div height */
+    height: 600px; /* Adjust height as needed */
+  }
